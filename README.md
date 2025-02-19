@@ -1,2 +1,2 @@
 # RSA Encryption
- 
+ The RSA Encryption Program in Python is an implementation of the widely used asymmetric encryption algorithm, RSA. The project involves generating public and private keys using large prime numbers and modular arithmetic. The encryption process converts plaintext into ciphertext using the public key, while the decryption process retrieves the original message using the private key. This implementation demonstrates the core principles of cryptography, including key generation, encryption, and decryption, ensuring secure communication. The project not only provides a practical understanding of RSA but also highlights its significance in modern cybersecurity, where data confidentiality and encryption play a crucial role.
